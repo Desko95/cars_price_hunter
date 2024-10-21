@@ -46,3 +46,6 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________
 Find the Best Deals, Track the Best Prices
 "Stay Informed, Stay Ahead – Car Price Tracking Made Easy"
+
+28.55 before footer
+31.40 navbar
